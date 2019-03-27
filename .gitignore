@@ -1,2 +1,4 @@
 *.egg-info
 \*.egg-info
+\.idea
+.idea

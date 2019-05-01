@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a02ae448-09b6-4350-a29b-160f21b136a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PLS/PLS_cython.pyx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PLS/README.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PLS/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PLS/pls_1d.py" beforeDir="false" afterPath="$PROJECT_DIR$/PLS/pls_1d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PLS/pls_nd.py" beforeDir="false" afterPath="$PROJECT_DIR$/PLS/pls_nd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PLS/pls_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/PLS/pls_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

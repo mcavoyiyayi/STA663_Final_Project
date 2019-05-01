@@ -1,6 +1,6 @@
-#README
+# README
 
-##Package Descriptions
+## Package Descriptions
 
 ### Dependencies
 1. Numba
@@ -12,7 +12,7 @@
 
 run 'python setup.py install' to install the package
 
-##File Descriptions
+## File Descriptions
 
 The Repo Consists of Following Items: 
 

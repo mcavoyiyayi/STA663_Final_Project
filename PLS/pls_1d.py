@@ -16,13 +16,22 @@ def PLS1(X, Y):
         t = t * np.linalg.norm(p)
         w = w * np.linalg.norm(p)
         b = (u.T @ t) / (t.T @ t)
+        print(b.shape)
+
         t = t.reshape((-1, 1))
+        print(t.shape)
+
         p = p.reshape((-1, 1))
+        print(t.shape)
+
         E_h = E_h - t @ p.T
+
         F_h = F_h - b * t
+
         X = E_h
         Y = F_h
         W[i] = w
+
         B[i] = b
         P[i] = p
     return W, B, P

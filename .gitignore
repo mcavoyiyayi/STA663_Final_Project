@@ -1,6 +1,7 @@
 *.egg-info
 \*.egg-info
-\.idea
+.idea\
 # file: ~/.gitignore_global
 .DS_Store
 .idea
+*.c
